@@ -14,14 +14,14 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" style="display:flex; flex-wrap:nowrap; gap:12px; overflow-x:auto; align-items:center;">
+<p align="left">
  <a href="https://linkedin.com/in/harshalwaghmare" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshalwaghmare" height="30" width="40" /></a><a href="https://github.com/HarshalWaghmare89" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HarshalWaghmare89" height="30" width="40" /></a>
 </p>
 
-
+<br clear="both" />
 
 <h3 align="left">Languages & Tools:</h3>
-<p align="left" style="display:flex; flex-wrap:nowrap; gap:12px; overflow-x:auto; align-items:center;">
+<p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
   </a>
